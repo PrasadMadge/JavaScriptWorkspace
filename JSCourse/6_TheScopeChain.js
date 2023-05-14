@@ -11,6 +11,22 @@ function a() {
 var myVar = 1;
 a();
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*
 OP
 1
@@ -40,6 +56,14 @@ function aa() {
 
 var myVarb = 1;
 aa();
+
+
+
+
+
+
+
+
 
 /*
 OP
